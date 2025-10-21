@@ -1,9 +1,9 @@
-import Hero from './components/Hero';
-import Ingredients from './components/Ingredients';
-import Research from './components/Research';
-import Technology from './components/Technology';
-import Trust from './components/Trust';
-import Footer from './components/Footer';
+import Hero from './Hero';
+import Ingredients from './Ingredients';
+import Research from './Research';
+import Technology from './Technology';
+import Trust from './Trust';
+import Footer from './Footer';
 
 function App() {
   return (

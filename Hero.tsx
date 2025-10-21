@@ -1,5 +1,5 @@
 import { ArrowRight } from 'lucide-react';
-import logo from '../assets/logo.png';
+import logo from './logo.png';
 
 export default function Hero() {
   return (
